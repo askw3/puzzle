@@ -1,0 +1,11 @@
+ochimono-puzzle/.cproject
+ochimono-puzzle/.project
+ochimono-puzzle/rule.txt
+ochimono-puzzle/.settings/language.settings.xml
+ochimono-puzzle/.settings/org.eclipse.cdt.managedbuilder.core.prefs
+ochimono-puzzle/Debug/ochimono-puzzle.exe
+ochimono-puzzle/Debug/src/blocks.o
+ochimono-puzzle/Debug/src/fields.o
+ochimono-puzzle/Debug/src/main.o
+ochimono-puzzle/Debug/src/rulebook.o
+ochimono-puzzle/Debug/src/scores.o
